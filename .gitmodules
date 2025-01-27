@@ -1,0 +1,9 @@
+[submodule "libdocpilot"]
+	path = libdocpilot
+	url = git@github.com:Silent-Crafter/libdocpilot
+[submodule "docpilot-web"]
+	path = docpilot-web
+	url = git@github.com:Silent-Crafter/docpilot-web
+[submodule "docpilot-api"]
+	path = docpilot-api
+	url = git@github.com:Silent-Crafter/docpilot-api
